@@ -106,12 +106,12 @@ html {
     width: 60%;
 }
 
-#portfolio {
+#conteudo {
     width: 80%;
     padding: 2% 10%;
 }
 
-#portfolio div h1 {
+#conteudo div h1 {
     font-size: 40px;
     background-image: linear-gradient(to left, #923eff 0%, #9d52ff 100%);
     -webkit-background-clip: text;
@@ -125,26 +125,26 @@ html {
     font-family: 'Comfortaa', cursive;
 }
 
-#skills {
+#historia {
     margin: 4vh 0px !important;
     padding: 2vh 0px !important;
 }
 
-#work {
+#locais {
     margin: 4vh 0px !important;
     padding: 2vh 0px !important;
 }
 
-#contact {
+#contato {
     margin: 4vh 0px !important;
     padding: 2vh 0px !important;
 }
 
-#contact form {
+#contato form {
     width: 100%;
 }
 
-#contact form input {
+#contato form input {
     width: 46%;
     margin: 20px 1%;
     background: transparent;
@@ -157,7 +157,7 @@ html {
     color: #fff;
 }
 
-#contact form textarea {
+#contato form textarea {
     width: 96%;
     margin: 20px 1%;
     padding: 8px 10px;
@@ -172,12 +172,12 @@ html {
     color: #fff;
 }
 
-#contact form input:focus {
+#contato form input:focus {
     outline: none;
     border-bottom: 2px solid rgba(255, 255, 255, 1);
 }
 
-#contact form textarea:focus {
+#contato form textarea:focus {
     outline: none;
     border-bottom: 2px solid rgba(255, 255, 255, 1);
 }
@@ -205,7 +205,7 @@ html {
     color: #000;
 }
 
-.project div {
+.projeto div {
     font-weight: normal;
 }
 
@@ -228,7 +228,7 @@ html {
     color: #fff;
 }
 
-#details {
+#detalhes {
     margin: 6vh 0px;
 }
 
@@ -288,11 +288,11 @@ html {
         padding: 8px 20px;
     }
 
-    #contact form input {
+    #contato form input {
         width: 92%;
     }
 
-    #contact form textarea {
+    #contato form textarea {
         width: 92%;
     }
 

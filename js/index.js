@@ -24,7 +24,7 @@ window.onscroll = function () {
   }
 };
 
-$("#contact-form").submit(function () {
+$("#contato-form").submit(function () {
   alert("Enviado com sucesso! 😃");
 })
 
