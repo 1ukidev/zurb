@@ -1,6 +1,4 @@
 # Zurb
-as melhores experiências.
-
-**Página fictícia.**
+as melhores experiências (página fictícia).
 
 Inspiração: https://github.com/imfunniee/fimbo
